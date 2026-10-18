@@ -133,12 +133,11 @@ mvn clean compile exec:java -Dexec.mainClass="org.example.RecipeAppGUI"
 
 ## 👤 Author & Attribution
 
-* **Developer:** Sanidhya Singh Chauhan ([SPECTER75](https://www.google.com/search?q=https://github.com/SPECTER75))
+* **Developer:** Himanshu Bhati 
 * **Project Name:** GourmetHub / RecipeSharing Platform
 
 ```
 
-Once pasted, click the green **Commit changes...** button at the top right to save it to your repository.
 
 <FollowUp>
 Would you like me to help you verify the rendered README or move on to preparing your presentation outline for Review 1?
