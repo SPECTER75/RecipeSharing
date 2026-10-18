@@ -137,10 +137,5 @@ mvn clean compile exec:java -Dexec.mainClass="org.example.RecipeAppGUI"
 * **Project Name:** GourmetHub / RecipeSharing Platform
 
 ```
-
-
-<FollowUp>
-Would you like me to help you verify the rendered README or move on to preparing your presentation outline for Review 1?
 </FollowUp>
 
-```
